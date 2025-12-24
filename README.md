@@ -17,16 +17,36 @@ The assignment begins with an introduction to IoT-enabled remote patient monitor
 
 The repository is organized to support LaTeX-based academic writing and submission:
 
-IoT-Wireless-Networks-Remote-Patient-Monitoring/
-│
-├── paper/
-│ ├── main.tex
-│ ├── references.bib
-│ ├── figures/
-│ └── tables/
-│
-├── README.md
-└── submission.zip
+## Repository Structure
+
+The repository follows a clean and modular structure suitable for academic LaTeX projects:
+
+## Repository Structure
+
+IoT-Based-Wireless-Networks-RPM/
+
+- docs/
+  - IoT_RPM_Report.pdf
+
+- src/
+  - main.tex
+  - references.bib
+  - sections/
+    - introduction.tex
+    - architecture.tex
+    - wireless_technologies.tex
+    - applications.tex
+    - challenges.tex
+    - future_directions.tex
+  - figures/
+  - tables/
+
+- submission/
+  - submission.zip
+
+- README.md
+- LICENSE
+
 
 
 
@@ -46,9 +66,11 @@ The final compiled PDF along with the complete LaTeX source files is included in
 
 ## Author
 
-B Tharuni Sri Sai
-23mic7268
-Wireless and Mobile Computing
+## Author
+
+- **Name:** B Tharuni Sri Sai  
+- **Roll Number:** 23mic7268  
+- **Course:** Wireless and Mobile Computing
 
 ## License
 
