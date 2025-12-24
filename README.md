@@ -13,13 +13,6 @@ The purpose of this assignment is to study the role of IoT-based wireless networ
 
 The assignment begins with an introduction to IoT-enabled remote patient monitoring and its significance in healthcare delivery. It then presents background concepts related to IoT systems and wireless networking in medical environments. Core architectures and communication approaches are discussed, followed by a comparative analysis of wireless technologies commonly used in healthcare IoT. Practical applications and real-world use cases are examined, along with key challenges such as security, scalability, and reliability. The assignment concludes by outlining emerging trends and future directions in IoT-based healthcare monitoring.
 
-## Repository Structure
-
-The repository is organized to support LaTeX-based academic writing and submission:
-
-## Repository Structure
-
-The repository follows a clean and modular structure suitable for academic LaTeX projects:
 
 ## Repository Structure
 
@@ -48,8 +41,6 @@ IoT-Based-Wireless-Networks-RPM/
 - LICENSE
 
 
-
-
 The `paper` directory contains the LaTeX source file, bibliography database, and supporting resources used to generate the final PDF document.
 
 ## Tools and Environment
@@ -63,8 +54,6 @@ This assignment has been developed with a strong emphasis on academic integrity.
 ## Submission Information
 
 The final compiled PDF along with the complete LaTeX source files is included in this repository as a compressed archive for submission. The repository link is shared through the designated submission platform as per the assignment instructions.
-
-## Author
 
 ## Author
 
